@@ -1,0 +1,7 @@
+files/
+*.pdf
+.git/
+.github/
+.gitignore
+.npmignore
+node_modules/

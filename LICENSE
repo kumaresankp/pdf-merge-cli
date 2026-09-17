@@ -1,0 +1,19 @@
+{
+  "name": "pdf-toolkit",
+  "version": "1.0.0",
+  "description": "A simple CLI tool for merging PDF files",
+  "main": "index.js",
+  "bin": {
+    "pdf-toolkit": "index.js"
+  },
+  "keywords": [
+    "pdf",
+    "cli",
+    "pdf-tools",
+    "merge-pdf"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "pdf-lib": "^1.17.1"
+  }
+}
