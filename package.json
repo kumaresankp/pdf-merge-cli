@@ -3,7 +3,6 @@
   "author": "Kumaresan K P",
   "version": "3.0.2",
   "description": "A simple CLI tool for merging PDF files",
-  "type": "module",
   "main": "src/index.js",
   "bin": {
     "pdf-joiner-kit": "src/index.js"
