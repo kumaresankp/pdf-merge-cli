@@ -8,6 +8,9 @@
   "bin": {
     "pdf-joiner-kit": "src/index.js"
   },
+  "scripts": {
+    "postinstall": "node src\\postinstall.js"
+  },
   "keywords": [
     "pdf",
     "cli",
