@@ -1,7 +1,7 @@
 {
   "name": "pdf-joiner-kit",
   "author": "Kumaresan K P",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A simple CLI tool for merging PDF files",
   "type": "module",
   "main": "src/index.js",
@@ -22,7 +22,6 @@
   "issues": {
     "url": "https://github.com/kumaresankp/pdf-merge-cli/issues"
   },
-
   "license": "MIT",
   "dependencies": {
     "pdf-lib": "^1.17.1"
